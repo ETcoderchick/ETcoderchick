@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ETcoderchick
 - 👀 I’m interested in Full-stack Web devlopment and Networking Technology 
-- 🌱 I’m currently working on my Networking Degree
-- 🤓 I am fluent in front-end, working on learing more with Back-end
+- 🌱 I’m currently working as a System Analyst 
+- 🤓 I am fluent in front-end, Back-end, and Infrastructure 
 - 💞️ I’m looking to collaborate on ... up in the air
 - 📫 How to reach me ... 🤔
 
